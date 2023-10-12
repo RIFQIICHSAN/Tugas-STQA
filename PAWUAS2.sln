@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAWUAS2", "PAWUAS2\PAWUAS2.csproj", "{3EE21E1E-7DEB-4C2F-9340-46BB9B2F3AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAWUAS2Tests", "PAWUAS2Tests\PAWUAS2Tests.csproj", "{D1F8E748-1424-43F0-98EA-1A4947F7D6D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE21E1E-7DEB-4C2F-9340-46BB9B2F3AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE21E1E-7DEB-4C2F-9340-46BB9B2F3AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE21E1E-7DEB-4C2F-9340-46BB9B2F3AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE21E1E-7DEB-4C2F-9340-46BB9B2F3AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F8E748-1424-43F0-98EA-1A4947F7D6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F8E748-1424-43F0-98EA-1A4947F7D6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F8E748-1424-43F0-98EA-1A4947F7D6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F8E748-1424-43F0-98EA-1A4947F7D6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29D832C-103D-464C-8576-C29C1CD5CA43}
+	EndGlobalSection
+EndGlobal

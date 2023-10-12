@@ -1,0 +1,16 @@
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.AssemblyInfoInputs.cache
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.AssemblyInfo.cs
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.csproj.CoreCompileInputs.cache
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\bin\Debug\net5.0\PAWUAS2.exe
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\bin\Debug\net5.0\PAWUAS2.deps.json
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\bin\Debug\net5.0\PAWUAS2.runtimeconfig.json
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\bin\Debug\net5.0\PAWUAS2.runtimeconfig.dev.json
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\bin\Debug\net5.0\PAWUAS2.dll
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\bin\Debug\net5.0\ref\PAWUAS2.dll
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\bin\Debug\net5.0\PAWUAS2.pdb
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.dll
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\ref\PAWUAS2.dll
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.pdb
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.genruntimeconfig.cache
+C:\Users\Rifqi Ichsan A\source\repos\PAWUAS2\PAWUAS2\obj\Debug\net5.0\PAWUAS2.csproj.AssemblyReference.cache

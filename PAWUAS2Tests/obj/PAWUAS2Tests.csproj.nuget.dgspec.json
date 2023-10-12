@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2Tests\\PAWUAS2Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2Tests\\PAWUAS2Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2Tests\\PAWUAS2Tests.csproj",
+        "projectName": "PAWUAS2Tests",
+        "projectPath": "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2Tests\\PAWUAS2Tests.csproj",
+        "packagesPath": "C:\\Users\\Rifqi Ichsan A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rifqi Ichsan A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": ".NETCoreApp,Version=v5.0",
+            "projectReferences": {
+              "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2\\PAWUAS2.csproj": {
+                "projectPath": "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2\\PAWUAS2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": ".NETCoreApp,Version=v5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2\\PAWUAS2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2\\PAWUAS2.csproj",
+        "projectName": "PAWUAS2",
+        "projectPath": "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2\\PAWUAS2.csproj",
+        "packagesPath": "C:\\Users\\Rifqi Ichsan A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rifqi Ichsan A\\source\\repos\\PAWUAS2\\PAWUAS2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rifqi Ichsan A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
