@@ -10,7 +10,9 @@ namespace PAWUAS2
 {
     public class Kedai
     {
+        //membuat variabel yang akan digunakan
         public decimal blackburger, spaghetti, nasigoreng, cappucino, icetea, airmineral, Hblackburger, Hspaghetti, Hnasigoreng, Hcappucino, Hicetea, Hairmineral, namapelanggan, namakasir, jam, tanggal;
+        //membuat format list
         public List<decimal> price = new List<decimal>();
         int choose;
 
